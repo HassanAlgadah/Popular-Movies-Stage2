@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\835d5b3bba27511e7b2f17432de010fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c61de732ba785ccaba30e90bcd8d3954\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\397343f7513a1ded3dce0656f683bdc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed0d70c7a4ca30db1eadf7ae6548a315\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\991ac7e1f47179ccedccf8291c88d555\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\faa84097007cc478fd58b66e9daf38f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\67d555563d27c9db0423e9b2508dcae8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dce2f4caa1d0f6a11cbc7845c5ef3a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\81cb520f0371deafa63d790152c2371f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\45066058f6b9e65e557a0799a8a9cec9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\086da5801e56a50926b0e0e45098da84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\45a060004d6d0f6f87fe6691bcf4eb2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ed6d73c4eff1b926f69db734663cf847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e42290e88c34eec6245d3ace4fee51bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\55855afed3d34037db28e94326632b20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5b266f8869ddf8efc1c1424d1db36e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bb7e937a0a321db7419bb79771620a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cab9b2f0cdce2e47b34850806745d1c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\256be98baca760ac15e8124d82c07efd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d450b29fdea73e729581a7c638fdbc00\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d412e59fa819ce66e74c913086593932\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\270446a32ef149c24267e4f05d2c74b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\e36c7e104d9f89f2f67a20b09c4df5fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\794efbf722c325b7e21f64d008c27a25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\784dccbd95e0ad3b60d8803da33fca16\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7b06c721d734681dbe7c890b9099d3da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9efb35676325298217eff3cdd4174a58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\45d08fb7dd2cc01dcedaf72e3fc341fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\38b36db6e2735fd222b78a10972ce515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\92c09cefa345a2ad0447e8ad73d5ded3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d104b31cc8dc01a62b82c0ecc46bdb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\61a8fd8cbc117148f7d45a34313a5e71\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c61de732ba785ccaba30e90bcd8d3954\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c61de732ba785ccaba30e90bcd8d3954\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:7:5-12:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\256be98baca760ac15e8124d82c07efd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\256be98baca760ac15e8124d82c07efd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d450b29fdea73e729581a7c638fdbc00\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d450b29fdea73e729581a7c638fdbc00\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\256be98baca760ac15e8124d82c07efd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.popularmoviesstage1.DetailsActivity
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:15:9-53
+	android:name
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:15:19-50
+activity#com.example.popularmoviesstage1.MainActivity
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\835d5b3bba27511e7b2f17432de010fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\835d5b3bba27511e7b2f17432de010fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c61de732ba785ccaba30e90bcd8d3954\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c61de732ba785ccaba30e90bcd8d3954\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\397343f7513a1ded3dce0656f683bdc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\397343f7513a1ded3dce0656f683bdc7\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed0d70c7a4ca30db1eadf7ae6548a315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed0d70c7a4ca30db1eadf7ae6548a315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\991ac7e1f47179ccedccf8291c88d555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\991ac7e1f47179ccedccf8291c88d555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\faa84097007cc478fd58b66e9daf38f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\faa84097007cc478fd58b66e9daf38f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\67d555563d27c9db0423e9b2508dcae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\67d555563d27c9db0423e9b2508dcae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dce2f4caa1d0f6a11cbc7845c5ef3a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dce2f4caa1d0f6a11cbc7845c5ef3a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\81cb520f0371deafa63d790152c2371f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\81cb520f0371deafa63d790152c2371f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\45066058f6b9e65e557a0799a8a9cec9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\45066058f6b9e65e557a0799a8a9cec9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\086da5801e56a50926b0e0e45098da84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\086da5801e56a50926b0e0e45098da84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\45a060004d6d0f6f87fe6691bcf4eb2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\45a060004d6d0f6f87fe6691bcf4eb2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ed6d73c4eff1b926f69db734663cf847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ed6d73c4eff1b926f69db734663cf847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e42290e88c34eec6245d3ace4fee51bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e42290e88c34eec6245d3ace4fee51bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\55855afed3d34037db28e94326632b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\55855afed3d34037db28e94326632b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5b266f8869ddf8efc1c1424d1db36e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5b266f8869ddf8efc1c1424d1db36e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bb7e937a0a321db7419bb79771620a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bb7e937a0a321db7419bb79771620a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cab9b2f0cdce2e47b34850806745d1c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cab9b2f0cdce2e47b34850806745d1c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\256be98baca760ac15e8124d82c07efd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\256be98baca760ac15e8124d82c07efd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d450b29fdea73e729581a7c638fdbc00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d450b29fdea73e729581a7c638fdbc00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d412e59fa819ce66e74c913086593932\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d412e59fa819ce66e74c913086593932\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\270446a32ef149c24267e4f05d2c74b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\270446a32ef149c24267e4f05d2c74b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\e36c7e104d9f89f2f67a20b09c4df5fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\e36c7e104d9f89f2f67a20b09c4df5fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\794efbf722c325b7e21f64d008c27a25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\794efbf722c325b7e21f64d008c27a25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\784dccbd95e0ad3b60d8803da33fca16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\784dccbd95e0ad3b60d8803da33fca16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7b06c721d734681dbe7c890b9099d3da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7b06c721d734681dbe7c890b9099d3da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9efb35676325298217eff3cdd4174a58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9efb35676325298217eff3cdd4174a58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\45d08fb7dd2cc01dcedaf72e3fc341fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\45d08fb7dd2cc01dcedaf72e3fc341fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\38b36db6e2735fd222b78a10972ce515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\38b36db6e2735fd222b78a10972ce515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\92c09cefa345a2ad0447e8ad73d5ded3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\92c09cefa345a2ad0447e8ad73d5ded3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d104b31cc8dc01a62b82c0ecc46bdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d104b31cc8dc01a62b82c0ecc46bdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\61a8fd8cbc117148f7d45a34313a5e71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\61a8fd8cbc117148f7d45a34313a5e71\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan\Desktop\New folder\PopularMoviesStage2\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7770fe767f323ba058b64323b4b80aa5\AndroidManifest.xml:9:13-64
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\01d81d028e0211d79defe38a97ac20db\AndroidManifest.xml:24:13-83

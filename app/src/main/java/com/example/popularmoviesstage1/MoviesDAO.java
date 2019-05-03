@@ -16,7 +16,7 @@ public interface MoviesDAO {
     void deleteMovie(String id);
 
     @Query("Select * from Movie")
-    public List<Movie> getAllMovies();
+    public LiveData<List<Movie>> getAllMovies();
 
     @Query("SELECT * FROM Movie WHERE image = :id")
     public Movie getSingleMovie (String id);
